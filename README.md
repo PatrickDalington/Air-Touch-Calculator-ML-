@@ -14,8 +14,6 @@ Air Touch Calculator is an innovative machine-learning computer vision applicati
 * [Technologies Used](#Technologies-Used)
 * [Using the Calculator](#Using-the-Calculator)
 * [Contribution](#contribution)
-* [Usage](#usage)
-* [Related Project](#related-project)
 * [Authors](#authors)
 * [License](#license)
 
