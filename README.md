@@ -3,7 +3,6 @@ Air Touch Calculator is a machine-learning computer vision application that turn
 
 ![](https://i.imgur.com/YyRmNNs.png)
 
-* LinkedIn Page: https://www.linkedin.com/in/patrick-olumba/
 
 
 
@@ -35,10 +34,6 @@ Air Touch Calculator is a machine-learning computer vision application that turn
 
     ```bash
    python app.py
-   
-
-
-
 
 ## How It Works
 
@@ -50,7 +45,7 @@ Air Touch Calculator is a machine-learning computer vision application that turn
 
 4. **Text-to-Speech (TTS):** Although currently commented out, the app includes a TTS feature using the `gTTS` library. This can read out the numbers and results when enabled.
 
-![](https://i.imgur.com/RcMzkob.png)
+![](https://i.imgur.com/LmoKwbO.png)
 
 
 ## Calculating Logic:
