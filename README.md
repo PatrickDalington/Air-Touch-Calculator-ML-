@@ -1,5 +1,5 @@
 # Air Touch Calculator
-Air Touch Calculator is an innovative machine-learning computer vision application that turns your computer into a touchless calculator. Using a webcam and hand gestures, the app allows you to perform calculations without physically touching the device. The application leverages the OpenCV library for real-time hand detection and gesture recognition.
+Air Touch Calculator is a machine-learning computer vision application that turns your computer into a touchless calculator. Using a webcam and hand gestures, the app allows you to perform calculations without physically touching the device. The application leverages the OpenCV library for real-time hand detection and gesture recognition.
 
 ![](https://i.imgur.com/YyRmNNs.png)
 
